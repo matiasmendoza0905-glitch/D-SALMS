@@ -1,0 +1,1045 @@
+{
+ "version": "V12.0-fase1",
+ "bancoProyect3": {
+  "recibido": true,
+  "archivo": "D_Salms_Proyect.zip",
+  "total": 276,
+  "extensiones": {
+   "jpg": 144,
+   "jpeg": 120,
+   "png": 12
+  },
+  "duplicados_exactos": 0,
+  "nota": "Clasificado revisando cada imagen en hojas de contacto. Los índices corresponden al orden alfabético de los archivos del ZIP."
+ },
+ "recursos": [
+  {
+   "origen": "PORTADA_Y_PRINCIPAL.jpg",
+   "dimension": "2576x1438",
+   "categoria": "portada principal",
+   "pagina": "Inicio",
+   "estado": "integrado",
+   "derivados": [
+    "assets/img/hero/portada-y-principal-2560.jpg",
+    "assets/img/hero/portada-y-principal-1600.jpg",
+    "assets/img/hero/portada-y-principal-900.jpg"
+   ],
+   "descripcion": "Avenida de ciudad al amanecer con el símbolo DS translúcido sobre el cielo. Marca de agua D’SalmS abajo a la derecha."
+  },
+  {
+   "origen": "LOGO_COLOR_PRINCIPAL.jpg",
+   "dimension": "2576x2575",
+   "categoria": "símbolo DS",
+   "variante": "turquesa sobre crema",
+   "ruta": "assets/img/logos/ds-turquesa.jpg",
+   "estado": "integrado"
+  },
+  {
+   "origen": "LOGO_VARIANTE_COLOR_CREMA.jpg",
+   "dimension": "2576x2576",
+   "categoria": "símbolo DS",
+   "variante": "crema sobre fondo oscuro",
+   "ruta": "assets/img/logos/ds-crema.jpg",
+   "estado": "integrado (encabezado)"
+  },
+  {
+   "origen": "LOGO_VARIANTE_COLOR_MORADO.jpg",
+   "dimension": "2576x2576",
+   "categoria": "símbolo DS",
+   "variante": "morado sobre crema",
+   "ruta": "assets/img/logos/ds-morado.jpg",
+   "estado": "integrado"
+  },
+  {
+   "origen": "LOGO_VARIANTE_COLOR_NEGRO.jpg",
+   "dimension": "2575x2576",
+   "categoria": "símbolo DS",
+   "variante": "negro sobre crema",
+   "ruta": "assets/img/logos/ds-negro.jpg",
+   "estado": "integrado"
+  },
+  {
+   "origen": "LOGO_VARIANTE_COLOR_ROJO.jpg",
+   "dimension": "2576x2576",
+   "categoria": "símbolo DS",
+   "variante": "rojo sobre crema",
+   "ruta": "assets/img/logos/ds-rojo.jpg",
+   "estado": "integrado"
+  }
+ ],
+ "documentosRecibidos": [
+  "01_MEMORIA_MAESTRA_DSALMS_V11.docx",
+  "02_ARQUITECTURA_WEB_Y_MOTION_V11.docx",
+  "DSalms_Informe_Imagen_Corporativa_FINAL_AMPLIADO_V11.docx",
+  "DSALMS_V11_Respuestas_Revisadas_y_Recomendaciones.xlsx",
+  "DSalms_Centro_Informacion.xlsx",
+  "DSalms_Encuesta_15_Respuestas_Graficos.xlsx",
+  "FICHA_TÉCNICA_DE_IMAGOLOGÍA-ICONOLOGÍA-IMAGEN_VERBAL.pdf (ejemplo Café Andino)"
+ ],
+ "pendientes": [
+  "Identificador completo DS + D’Salms (no se recibió archivo; el encabezado usa el símbolo oficial y el nombre como texto)"
+ ],
+ "recursos_banco": [
+  {
+   "origen": "Design_brand_imagology_sheet_a47964cf_2K.jpg",
+   "indice_zip": 72,
+   "ruta": "assets/img/banco/lam/imagologia-paleta.jpg",
+   "miniatura": "assets/img/banco/lam/imagologia-paleta-t.jpg",
+   "tipo": "lámina informativa",
+   "dimension_original": "2752x1536",
+   "dimension_web": "2000x1116",
+   "alt": "Lámina de imagología y paleta de colores con prendas, bolsas, gorra y muestras de color",
+   "estado": "integrado"
+  },
+  {
+   "origen": "Design_brand_manual_sheet_2f85ac49_2K.jpg",
+   "indice_zip": 73,
+   "ruta": "assets/img/banco/lam/paleta-oficial.jpg",
+   "miniatura": "assets/img/banco/lam/paleta-oficial-t.jpg",
+   "tipo": "lámina informativa",
+   "dimension_original": "2752x1536",
+   "dimension_web": "2000x1116",
+   "alt": "Lámina de la paleta de colores oficial con fotografías de inspiración y cinco muestras",
+   "estado": "integrado",
+   "paginas": [
+    "Imagen Pública"
+   ]
+  },
+  {
+   "origen": "Gemini_Generated_Image_pf9dvbpf9dvbpf9d.jpeg",
+   "indice_zip": 151,
+   "ruta": "assets/img/banco/lam/personalidad.jpg",
+   "miniatura": "assets/img/banco/lam/personalidad-t.jpg",
+   "tipo": "lámina informativa",
+   "dimension_original": "1376x768",
+   "dimension_web": "1376x768",
+   "alt": "Lámina «Nuestra personalidad»: moderna, juvenil, creativa, cercana, auténtica e inspiradora",
+   "estado": "integrado",
+   "paginas": [
+    "Imagen Pública"
+   ]
+  },
+  {
+   "origen": "Gemini_Generated_Image_w8ok9rw8ok9rw8ok.jpeg",
+   "indice_zip": 169,
+   "ruta": "assets/img/banco/lam/perfiles.jpg",
+   "miniatura": "assets/img/banco/lam/perfiles-t.jpg",
+   "tipo": "lámina informativa",
+   "dimension_original": "1376x768",
+   "dimension_web": "1376x768",
+   "alt": "Lámina «Perfiles distintos, una misma esencia» con Gabriel y Valeria",
+   "estado": "integrado"
+  },
+  {
+   "origen": "Designing_D#U2019Salms_editorial_anal#U2026_cffb8826_2K.jpg",
+   "indice_zip": 75,
+   "ruta": "assets/img/banco/lam/identificador-analisis.jpg",
+   "miniatura": "assets/img/banco/lam/identificador-analisis-t.jpg",
+   "tipo": "lámina informativa",
+   "dimension_original": "2400x1792",
+   "dimension_web": "2000x1493",
+   "alt": "Análisis gráfico del identificador DS con retícula, ampliaciones y paleta oficial",
+   "estado": "integrado",
+   "paginas": [
+    "Imagen Pública"
+   ]
+  },
+  {
+   "origen": "Logo_iconography_analysis_plate_#U2026_550293a0_2K.jpg",
+   "indice_zip": 195,
+   "ruta": "assets/img/banco/lam/iconografia-construccion.jpg",
+   "miniatura": "assets/img/banco/lam/iconografia-construccion-t.jpg",
+   "tipo": "lámina informativa",
+   "dimension_original": "2400x1792",
+   "dimension_web": "2000x1493",
+   "alt": "Análisis de iconografía y construcción del símbolo DS con detalles de curvatura y proporción",
+   "estado": "integrado",
+   "paginas": [
+    "Imagen Pública"
+   ]
+  },
+  {
+   "origen": "Designing_DSalms_brand_infographic_59ad8cb6_2K.jpg",
+   "indice_zip": 76,
+   "ruta": "assets/img/banco/lam/sistema-iconografia.jpg",
+   "miniatura": "assets/img/banco/lam/sistema-iconografia-t.jpg",
+   "tipo": "lámina informativa",
+   "dimension_original": "2752x1536",
+   "dimension_web": "2000x1116",
+   "alt": "Sistema de identidad e iconografía: logotipo, tipografía, color y fotografía",
+   "estado": "integrado"
+  },
+  {
+   "origen": "Gemini_Generated_Image_9f2ubt9f2ubt9f2u.jpeg",
+   "indice_zip": 111,
+   "ruta": "assets/img/banco/lam/elementos-graficos.jpg",
+   "miniatura": "assets/img/banco/lam/elementos-graficos-t.jpg",
+   "tipo": "lámina informativa",
+   "dimension_original": "1376x768",
+   "dimension_web": "1376x768",
+   "alt": "Sistema de elementos gráficos: ondas, degradados, patrones DS y texturas",
+   "estado": "integrado"
+  },
+  {
+   "origen": "Gemini_Generated_Image_cajnnqcajnnqcajn.jpeg",
+   "indice_zip": 122,
+   "ruta": "assets/img/banco/lam/tipografia-logotipo.jpg",
+   "miniatura": "assets/img/banco/lam/tipografia-logotipo-t.jpg",
+   "tipo": "lámina informativa",
+   "dimension_original": "1024x1024",
+   "dimension_web": "1024x1024",
+   "alt": "Análisis tipográfico del logotipo D’Salms con anotaciones",
+   "estado": "integrado",
+   "paginas": [
+    "Imagen Pública"
+   ]
+  },
+  {
+   "origen": "22.jpeg",
+   "indice_zip": 10,
+   "ruta": "assets/img/banco/lam/kalnia.jpg",
+   "miniatura": "assets/img/banco/lam/kalnia-t.jpg",
+   "tipo": "lámina informativa",
+   "dimension_original": "1424x752",
+   "dimension_web": "1424x752",
+   "alt": "Muestra de la tipografía Kalnia con mayúsculas, minúsculas y números",
+   "estado": "integrado",
+   "paginas": [
+    "Imagen Pública"
+   ]
+  },
+  {
+   "origen": "28.jpeg",
+   "indice_zip": 14,
+   "ruta": "assets/img/banco/lam/paleta-colores.jpg",
+   "miniatura": "assets/img/banco/lam/paleta-colores-t.jpg",
+   "tipo": "lámina informativa",
+   "dimension_original": "1792x592",
+   "dimension_web": "1792x592",
+   "alt": "Paleta de colores: turquesa, crema, negro, rojo y morado",
+   "estado": "integrado",
+   "paginas": [
+    "Imagen Pública"
+   ]
+  },
+  {
+   "origen": "31.jpeg",
+   "indice_zip": 18,
+   "ruta": "assets/img/banco/lam/combinaciones-cromaticas.jpg",
+   "miniatura": "assets/img/banco/lam/combinaciones-cromaticas-t.jpg",
+   "tipo": "lámina informativa",
+   "dimension_original": "1424x752",
+   "dimension_web": "1424x752",
+   "alt": "Matriz de combinaciones cromáticas del logotipo",
+   "estado": "integrado",
+   "paginas": [
+    "Imagen Pública"
+   ]
+  },
+  {
+   "origen": "Imagen1.png",
+   "indice_zip": 178,
+   "ruta": "assets/img/banco/lam/variantes-logo.jpg",
+   "miniatura": "assets/img/banco/lam/variantes-logo-t.jpg",
+   "tipo": "lámina informativa",
+   "dimension_original": "330x327",
+   "dimension_web": "330x327",
+   "alt": "Variantes del logotipo en turquesa, negro y morado",
+   "estado": "integrado"
+  },
+  {
+   "origen": "Infographic_representing_D#U2019Salms#U2026_f3465002_2K.jpg",
+   "indice_zip": 179,
+   "ruta": "assets/img/banco/lam/sistema-visual.jpg",
+   "miniatura": "assets/img/banco/lam/sistema-visual-t.jpg",
+   "tipo": "lámina informativa",
+   "dimension_original": "2752x1536",
+   "dimension_web": "2000x1116",
+   "alt": "Infografía del sistema de identidad visual: elegancia, creatividad, calidad y fe",
+   "estado": "integrado"
+  },
+  {
+   "origen": "14.jpeg",
+   "indice_zip": 5,
+   "ruta": "assets/img/banco/lam/propuestas-logo.jpg",
+   "miniatura": "assets/img/banco/lam/propuestas-logo-t.jpg",
+   "tipo": "lámina informativa",
+   "dimension_original": "1792x592",
+   "dimension_web": "1792x592",
+   "alt": "Propuestas de logotipo: bocetos y diseño seleccionado",
+   "estado": "integrado",
+   "paginas": [
+    "Imagen Pública"
+   ]
+  },
+  {
+   "origen": "Design_corporate_communication_e#U2026_56813982_2K.jpg",
+   "indice_zip": 74,
+   "ruta": "assets/img/banco/lam/asi-habla-1.jpg",
+   "miniatura": "assets/img/banco/lam/asi-habla-1-t.jpg",
+   "tipo": "lámina informativa",
+   "dimension_original": "2752x1536",
+   "dimension_web": "2000x1116",
+   "alt": "Lámina «Así habla D’Salms»: la voz en acción y la personalidad verbal",
+   "estado": "integrado"
+  },
+  {
+   "origen": "Designing_corporate_communicatio#U2026_7ff2c16e_2K.jpg",
+   "indice_zip": 78,
+   "ruta": "assets/img/banco/lam/asi-habla-2.jpg",
+   "miniatura": "assets/img/banco/lam/asi-habla-2-t.jpg",
+   "tipo": "lámina informativa",
+   "dimension_original": "2752x1536",
+   "dimension_web": "2000x1116",
+   "alt": "Lámina «Así habla D’Salms»: conversación y atención, personalidad verbal",
+   "estado": "integrado"
+  },
+  {
+   "origen": "Fashion_brand_color_swatches_sheet_55dde336_2K.jpg",
+   "indice_zip": 88,
+   "ruta": "assets/img/banco/lam/imagologia-editorial.jpg",
+   "miniatura": "assets/img/banco/lam/imagologia-editorial-t.jpg",
+   "tipo": "lámina informativa",
+   "dimension_original": "2752x1536",
+   "dimension_web": "2000x1116",
+   "alt": "Imagología editorial: serie de modelos con prendas de colores y especificaciones",
+   "estado": "integrado",
+   "paginas": [
+    "Imagen Pública"
+   ]
+  },
+  {
+   "origen": "Fashion_brand_editorial_moodboar#U2026_23abe90a_2K.jpg",
+   "indice_zip": 89,
+   "ruta": "assets/img/banco/lam/moodboard-editorial.jpg",
+   "miniatura": "assets/img/banco/lam/moodboard-editorial-t.jpg",
+   "tipo": "lámina informativa",
+   "dimension_original": "2752x1536",
+   "dimension_web": "2000x1116",
+   "alt": "Moodboard editorial de D’Salms con prendas, bolsa y paleta",
+   "estado": "integrado",
+   "paginas": [
+    "Imagen Pública"
+   ]
+  },
+  {
+   "origen": "Designing_fashion_color_swatch_s#U2026_bfe37191_2K.jpg",
+   "indice_zip": 79,
+   "ruta": "assets/img/banco/lam/imagologia-prendas.jpg",
+   "miniatura": "assets/img/banco/lam/imagologia-prendas-t.jpg",
+   "tipo": "lámina informativa",
+   "dimension_original": "2752x1536",
+   "dimension_web": "2000x1116",
+   "alt": "Imagología y paleta de colores con modelos en prendas turquesa, morado y rojo",
+   "estado": "integrado",
+   "paginas": [
+    "Imagen Pública"
+   ]
+  },
+  {
+   "origen": "Designing_professional_fashion_m#U2026_1a9f171f_2K.jpg",
+   "indice_zip": 80,
+   "ruta": "assets/img/banco/lam/manual-lamina.jpg",
+   "miniatura": "assets/img/banco/lam/manual-lamina-t.jpg",
+   "tipo": "lámina informativa",
+   "dimension_original": "2752x1536",
+   "dimension_web": "2000x1116",
+   "alt": "Lámina del manual de identidad con fotografías, prendas y paleta",
+   "estado": "integrado"
+  },
+  {
+   "origen": "image.png_8a337559_2K.jpg",
+   "indice_zip": 270,
+   "ruta": "assets/img/banco/lam/swatches-collage.jpg",
+   "miniatura": "assets/img/banco/lam/swatches-collage-t.jpg",
+   "tipo": "lámina informativa",
+   "dimension_original": "2752x1536",
+   "dimension_web": "2000x1116",
+   "alt": "Collage de paleta con fotografías de prendas y círculos de color",
+   "estado": "integrado",
+   "paginas": [
+    "Imagen Pública"
+   ]
+  },
+  {
+   "origen": "4.png",
+   "indice_zip": 27,
+   "ruta": "assets/img/banco/lam/identidad-componentes.jpg",
+   "miniatura": "assets/img/banco/lam/identidad-componentes-t.jpg",
+   "tipo": "lámina informativa",
+   "dimension_original": "1254x1254",
+   "dimension_web": "1254x1254",
+   "alt": "Diagrama: identidad visual, verbal, corporativa y cultural alrededor del símbolo DS",
+   "estado": "integrado"
+  },
+  {
+   "origen": "26.jpeg",
+   "indice_zip": 12,
+   "ruta": "assets/img/banco/lam/tipografia-viste.jpg",
+   "miniatura": "assets/img/banco/lam/tipografia-viste-t.jpg",
+   "tipo": "lámina informativa",
+   "dimension_original": "1392x768",
+   "dimension_web": "1392x768",
+   "alt": "Muestra tipográfica «Viste tu esencia»",
+   "estado": "integrado"
+  },
+  {
+   "origen": "30.jpeg",
+   "indice_zip": 17,
+   "ruta": "assets/img/banco/lam/logos-fondos.jpg",
+   "miniatura": "assets/img/banco/lam/logos-fondos-t.jpg",
+   "tipo": "lámina informativa",
+   "dimension_original": "1792x592",
+   "dimension_web": "1792x592",
+   "alt": "Logotipo D’Salms sobre fondos negro, morado y rojo",
+   "estado": "integrado",
+   "paginas": [
+    "Imagen Pública"
+   ]
+  },
+  {
+   "origen": "Model_wearing_D#U2019Salms_garment_6097cb25_2K.jpg",
+   "indice_zip": 207,
+   "ruta": "assets/img/banco/foto/camp-negro.jpg",
+   "miniatura": "assets/img/banco/foto/camp-negro-t.jpg",
+   "tipo": "fotografía/campaña",
+   "dimension_original": "2400x1792",
+   "dimension_web": "1500x1120",
+   "alt": "Cartel «Viste tu esencia» con modelo en hoodie negro y logotipo DS",
+   "estado": "integrado"
+  },
+  {
+   "origen": "Model_wearing_D#U2019Salms_garment_c81bc56f_2K.jpg",
+   "indice_zip": 208,
+   "ruta": "assets/img/banco/foto/camp-morado.jpg",
+   "miniatura": "assets/img/banco/foto/camp-morado-t.jpg",
+   "tipo": "fotografía/campaña",
+   "dimension_original": "2400x1792",
+   "dimension_web": "1500x1120",
+   "alt": "Pieza editorial «Viste tu esencia» con modelo en hoodie sobre fondo morado",
+   "estado": "integrado",
+   "paginas": [
+    "Imagen Pública"
+   ]
+  },
+  {
+   "origen": "Model_wearing_black_D#U2019Salms_garment_2e0289c7_2K.jpg",
+   "indice_zip": 212,
+   "ruta": "assets/img/banco/foto/camp-formas.jpg",
+   "miniatura": "assets/img/banco/foto/camp-formas-t.jpg",
+   "tipo": "fotografía/campaña",
+   "dimension_original": "2400x1792",
+   "dimension_web": "1500x1120",
+   "alt": "Campaña «Viste tu esencia» con formas morada, roja y turquesa",
+   "estado": "integrado",
+   "paginas": [
+    "Imagen Pública"
+   ]
+  },
+  {
+   "origen": "Woman_wearing_contemporary_fashi#U2026_03b5f325_2K.jpg",
+   "indice_zip": 262,
+   "ruta": "assets/img/banco/foto/camp-panel.jpg",
+   "miniatura": "assets/img/banco/foto/camp-panel-t.jpg",
+   "tipo": "fotografía/campaña",
+   "dimension_original": "2400x1792",
+   "dimension_web": "1500x1120",
+   "alt": "Cartel «Viste tu esencia» con mujer en hoodie sobre panel morado",
+   "estado": "integrado"
+  },
+  {
+   "origen": "High_fashion_magazine_cover_mockup_9f25cd70_2K.jpg",
+   "indice_zip": 177,
+   "ruta": "assets/img/banco/foto/camp-revista.jpg",
+   "miniatura": "assets/img/banco/foto/camp-revista-t.jpg",
+   "tipo": "fotografía/campaña",
+   "dimension_original": "2752x1536",
+   "dimension_web": "1500x837",
+   "alt": "Portada de revista D’Salms «Viste tu esencia»",
+   "estado": "integrado"
+  },
+  {
+   "origen": "Model_wearing_tailored_turquoise#U2026_f56dd5ae_2K.jpg",
+   "indice_zip": 226,
+   "ruta": "assets/img/banco/foto/camp-saco.jpg",
+   "miniatura": "assets/img/banco/foto/camp-saco-t.jpg",
+   "tipo": "fotografía/campaña",
+   "dimension_original": "2752x1536",
+   "dimension_web": "1500x837",
+   "alt": "Portada editorial D’Salms con saco turquesa y «Viste tu esencia»",
+   "estado": "integrado",
+   "paginas": [
+    "Imagen Pública"
+   ]
+  },
+  {
+   "origen": "D'SALMS_advertising_flyer_launch_821e44e8_2K.jpg",
+   "indice_zip": 58,
+   "ruta": "assets/img/banco/foto/camp-afiche.jpg",
+   "miniatura": "assets/img/banco/foto/camp-afiche-t.jpg",
+   "tipo": "fotografía/campaña",
+   "dimension_original": "2752x1536",
+   "dimension_web": "1500x837",
+   "alt": "Afiche «Edición limitada, viste tu esencia» con modelos",
+   "estado": "integrado",
+   "paginas": [
+    "Imagen Pública"
+   ]
+  },
+  {
+   "origen": "Billboard_advertising_winter_app#U2026_8a2267d8_2K.jpg",
+   "indice_zip": 43,
+   "ruta": "assets/img/banco/foto/camp-valla.jpg",
+   "miniatura": "assets/img/banco/foto/camp-valla-t.jpg",
+   "tipo": "fotografía/campaña",
+   "dimension_original": "2752x1536",
+   "dimension_web": "1500x837",
+   "alt": "Valla «Nueva temporada, viste tu esencia» en plaza urbana",
+   "estado": "integrado",
+   "paginas": [
+    "Imagen Pública"
+   ]
+  },
+  {
+   "origen": "Man_wearing_turquoise_hoodie_44a33c40_2K.jpg",
+   "indice_zip": 199,
+   "ruta": "assets/img/banco/foto/camp-hoodie.jpg",
+   "miniatura": "assets/img/banco/foto/camp-hoodie-t.jpg",
+   "tipo": "fotografía/campaña",
+   "dimension_original": "2752x1536",
+   "dimension_web": "1500x837",
+   "alt": "Joven con hoodie turquesa «Viste tu esencia» en entorno urbano",
+   "estado": "integrado",
+   "paginas": [
+    "Imagen Pública"
+   ]
+  },
+  {
+   "origen": "Gemini_Generated_Image_x0e6jmx0e6jmx0e6.jpeg",
+   "indice_zip": 170,
+   "ruta": "assets/img/banco/foto/camp-fe.jpg",
+   "miniatura": "assets/img/banco/foto/camp-fe-t.jpg",
+   "tipo": "fotografía/campaña",
+   "dimension_original": "928x1152",
+   "dimension_web": "928x1152",
+   "alt": "Pieza «Tu fe también tiene estilo»",
+   "estado": "integrado"
+  },
+  {
+   "origen": "2.png",
+   "indice_zip": 9,
+   "ruta": "assets/img/banco/foto/vida-collage.jpg",
+   "miniatura": "assets/img/banco/foto/vida-collage-t.jpg",
+   "tipo": "fotografía/campaña",
+   "dimension_original": "1723x913",
+   "dimension_web": "1500x795",
+   "alt": "Collage de jóvenes con prendas turquesa y crema",
+   "estado": "integrado",
+   "paginas": [
+    "Imagen Pública"
+   ]
+  },
+  {
+   "origen": "3.jpeg",
+   "indice_zip": 16,
+   "ruta": "assets/img/banco/foto/vida-escalera.jpg",
+   "miniatura": "assets/img/banco/foto/vida-escalera-t.jpg",
+   "tipo": "fotografía/campaña",
+   "dimension_original": "1376x768",
+   "dimension_web": "1376x768",
+   "alt": "Grupo de jóvenes sentados en una escalera con prendas D’Salms",
+   "estado": "integrado",
+   "paginas": [
+    "Imagen Pública"
+   ]
+  },
+  {
+   "origen": "Young_adults_walking_in_city_3f0e53a3_2K.jpg",
+   "indice_zip": 264,
+   "ruta": "assets/img/banco/foto/vida-paseo.jpg",
+   "miniatura": "assets/img/banco/foto/vida-paseo-t.jpg",
+   "tipo": "fotografía/campaña",
+   "dimension_original": "2752x1536",
+   "dimension_web": "1500x837",
+   "alt": "Tres jóvenes caminando con prendas D’Salms",
+   "estado": "integrado"
+  },
+  {
+   "origen": "Young_adults_walking_urban_space_1c87fa41_2K.jpg",
+   "indice_zip": 265,
+   "ruta": "assets/img/banco/foto/vida-paseo2.jpg",
+   "miniatura": "assets/img/banco/foto/vida-paseo2-t.jpg",
+   "tipo": "fotografía/campaña",
+   "dimension_original": "2752x1536",
+   "dimension_web": "1500x837",
+   "alt": "Jóvenes caminando en un paseo urbano",
+   "estado": "integrado"
+  },
+  {
+   "origen": "Gemini_Generated_Image_l4i352l4i352l4i3.jpeg",
+   "indice_zip": 140,
+   "ruta": "assets/img/banco/foto/vida-escalinata.jpg",
+   "miniatura": "assets/img/banco/foto/vida-escalinata-t.jpg",
+   "tipo": "fotografía/campaña",
+   "dimension_original": "1376x768",
+   "dimension_web": "1376x768",
+   "alt": "Jóvenes con prendas turquesa en una escalinata",
+   "estado": "integrado"
+  },
+  {
+   "origen": "Gemini_Generated_Image_87y3a187y3a187y3.jpeg",
+   "indice_zip": 108,
+   "ruta": "assets/img/banco/foto/vida-trio.jpg",
+   "miniatura": "assets/img/banco/foto/vida-trio-t.jpg",
+   "tipo": "fotografía/campaña",
+   "dimension_original": "1376x768",
+   "dimension_web": "1376x768",
+   "alt": "Tres modelos con prendas de degradado turquesa y morado",
+   "estado": "integrado",
+   "paginas": [
+    "Imagen Pública"
+   ]
+  },
+  {
+   "origen": "Models_posing_for_clothing_brand_557be6f8_2K.jpg",
+   "indice_zip": 230,
+   "ruta": "assets/img/banco/foto/vida-estudio.jpg",
+   "miniatura": "assets/img/banco/foto/vida-estudio-t.jpg",
+   "tipo": "fotografía/campaña",
+   "dimension_original": "2400x1792",
+   "dimension_web": "1500x1120",
+   "alt": "Pareja con prendas turquesa y crema frente a formas de color",
+   "estado": "integrado"
+  },
+  {
+   "origen": "Couple_walking_on_city_street_b431e6bb_2K.jpg",
+   "indice_zip": 54,
+   "ruta": "assets/img/banco/foto/vida-noche.jpg",
+   "miniatura": "assets/img/banco/foto/vida-noche-t.jpg",
+   "tipo": "fotografía/campaña",
+   "dimension_original": "2752x1536",
+   "dimension_web": "1500x837",
+   "alt": "Pareja caminando de noche con hoodies de la colección Propósito",
+   "estado": "integrado"
+  },
+  {
+   "origen": "Couple_wearing_elegant_long_coats_ee1c5479_2K.jpg",
+   "indice_zip": 55,
+   "ruta": "assets/img/banco/foto/vida-elegancia.jpg",
+   "miniatura": "assets/img/banco/foto/vida-elegancia-t.jpg",
+   "tipo": "fotografía/campaña",
+   "dimension_original": "2752x1536",
+   "dimension_web": "1500x837",
+   "alt": "«Elegancia y propósito»: pareja con abrigos en la calle",
+   "estado": "integrado"
+  },
+  {
+   "origen": "Charcoal_fleece_pullover_hoodie_#U2026_015cf6a4_2K.jpg",
+   "indice_zip": 45,
+   "ruta": "assets/img/banco/foto/fe-filipenses.jpg",
+   "miniatura": "assets/img/banco/foto/fe-filipenses-t.jpg",
+   "tipo": "fotografía/campaña",
+   "dimension_original": "2752x1536",
+   "dimension_web": "1500x837",
+   "alt": "Hoodie negro con estampado Filipenses 4:13 por delante y por detrás",
+   "estado": "integrado",
+   "paginas": [
+    "Imagen Pública"
+   ]
+  },
+  {
+   "origen": "D'SALMS_short-sleeve_shirt_22a407df_2K.jpg",
+   "indice_zip": 70,
+   "ruta": "assets/img/banco/foto/fe-salmos231.jpg",
+   "miniatura": "assets/img/banco/foto/fe-salmos231-t.jpg",
+   "tipo": "fotografía/campaña",
+   "dimension_original": "2752x1536",
+   "dimension_web": "1500x837",
+   "alt": "Polo negro con estampado Salmos 23:1",
+   "estado": "integrado",
+   "paginas": [
+    "Imagen Pública"
+   ]
+  },
+  {
+   "origen": "Overshirt_design_for_D'SALMS_813eaa33_2K.jpg",
+   "indice_zip": 238,
+   "ruta": "assets/img/banco/foto/fe-camisa.jpg",
+   "miniatura": "assets/img/banco/foto/fe-camisa-t.jpg",
+   "tipo": "fotografía/campaña",
+   "dimension_original": "2752x1536",
+   "dimension_web": "1500x837",
+   "alt": "Camisa negra con frase «The Lord is my light and my salvation»",
+   "estado": "integrado",
+   "paginas": [
+    "Imagen Pública"
+   ]
+  },
+  {
+   "origen": "Streetwear_t-shirt_showcase_84c2fa8b_2K.jpg",
+   "indice_zip": 253,
+   "ruta": "assets/img/banco/foto/fe-viva.jpg",
+   "miniatura": "assets/img/banco/foto/fe-viva-t.jpg",
+   "tipo": "fotografía/campaña",
+   "dimension_original": "2752x1536",
+   "dimension_web": "1500x837",
+   "alt": "Camisetas «Fe viva» en turquesa y negro",
+   "estado": "integrado",
+   "paginas": [
+    "Imagen Pública"
+   ]
+  },
+  {
+   "origen": "Polo_shirt_design_mockup_5e7da100_2K.jpg",
+   "indice_zip": 247,
+   "ruta": "assets/img/banco/foto/fe-polo-salmos.jpg",
+   "miniatura": "assets/img/banco/foto/fe-polo-salmos-t.jpg",
+   "tipo": "fotografía/campaña",
+   "dimension_original": "2752x1536",
+   "dimension_web": "1500x837",
+   "alt": "Polo con Salmos 24:1 en la espalda",
+   "estado": "integrado"
+  },
+  {
+   "origen": "Cotton_shirt_fabric_embroidery_t#U2026_bea245ff_2K.jpg",
+   "indice_zip": 53,
+   "ruta": "assets/img/banco/foto/fe-bordado.jpg",
+   "miniatura": "assets/img/banco/foto/fe-bordado-t.jpg",
+   "tipo": "fotografía/campaña",
+   "dimension_original": "2752x1536",
+   "dimension_web": "1500x837",
+   "alt": "Bordado del símbolo DS y Salmo 23:1 sobre tela",
+   "estado": "integrado",
+   "paginas": [
+    "Imagen Pública"
+   ]
+  },
+  {
+   "origen": "D'SALMS_shirts_on_minimalist_ped#U2026_b6eea1fb_2K.jpg",
+   "indice_zip": 69,
+   "ruta": "assets/img/banco/foto/prod-pedestal.jpg",
+   "miniatura": "assets/img/banco/foto/prod-pedestal-t.jpg",
+   "tipo": "fotografía/campaña",
+   "dimension_original": "2752x1536",
+   "dimension_web": "1500x837",
+   "alt": "Polos y camisas D’Salms sobre pedestal",
+   "estado": "integrado",
+   "paginas": [
+    "Imagen Pública"
+   ]
+  },
+  {
+   "origen": "12.png",
+   "indice_zip": 3,
+   "ruta": "assets/img/banco/foto/prod-collage.jpg",
+   "miniatura": "assets/img/banco/foto/prod-collage-t.jpg",
+   "tipo": "fotografía/campaña",
+   "dimension_original": "1635x962",
+   "dimension_web": "1500x883",
+   "alt": "Collage de prendas, papelería y jóvenes con el símbolo DS",
+   "estado": "integrado",
+   "paginas": [
+    "Imagen Pública"
+   ]
+  },
+  {
+   "origen": "33.jpeg",
+   "indice_zip": 20,
+   "ruta": "assets/img/banco/foto/prod-polos.jpg",
+   "miniatura": "assets/img/banco/foto/prod-polos-t.jpg",
+   "tipo": "fotografía/campaña",
+   "dimension_original": "1392x768",
+   "dimension_web": "1392x768",
+   "alt": "Polos crema y negros con símbolo DS",
+   "estado": "integrado",
+   "paginas": [
+    "Imagen Pública"
+   ]
+  },
+  {
+   "origen": "34.jpeg",
+   "indice_zip": 21,
+   "ruta": "assets/img/banco/foto/prod-buzos.jpg",
+   "miniatura": "assets/img/banco/foto/prod-buzos-t.jpg",
+   "tipo": "fotografía/campaña",
+   "dimension_original": "1392x768",
+   "dimension_web": "1392x768",
+   "alt": "Buzos turquesa y negro con símbolo DS",
+   "estado": "integrado",
+   "paginas": [
+    "Imagen Pública"
+   ]
+  },
+  {
+   "origen": "39.jpeg",
+   "indice_zip": 26,
+   "ruta": "assets/img/banco/foto/prod-bolsas.jpg",
+   "miniatura": "assets/img/banco/foto/prod-bolsas-t.jpg",
+   "tipo": "fotografía/campaña",
+   "dimension_original": "1344x784",
+   "dimension_web": "1344x784",
+   "alt": "Bolsas de papel D’Salms en turquesa, crema y negro",
+   "estado": "integrado",
+   "paginas": [
+    "Imagen Pública"
+   ]
+  },
+  {
+   "origen": "37.jpeg",
+   "indice_zip": 24,
+   "ruta": "assets/img/banco/foto/prod-etiquetas.jpg",
+   "miniatura": "assets/img/banco/foto/prod-etiquetas-t.jpg",
+   "tipo": "fotografía/campaña",
+   "dimension_original": "1456x720",
+   "dimension_web": "1456x720",
+   "alt": "Etiqueta y colgante D’Salms sobre prenda",
+   "estado": "integrado"
+  },
+  {
+   "origen": "Gemini_Generated_Image_jecse8jecse8jecs.jpeg",
+   "indice_zip": 138,
+   "ruta": "assets/img/banco/foto/dig-perfil.jpg",
+   "miniatura": "assets/img/banco/foto/dig-perfil-t.jpg",
+   "tipo": "fotografía/campaña",
+   "dimension_original": "1024x1024",
+   "dimension_web": "1024x1024",
+   "alt": "Perfil de Instagram de D’Salms en un teléfono",
+   "estado": "integrado",
+   "paginas": [
+    "Imagen Pública"
+   ]
+  },
+  {
+   "origen": "Gemini_Generated_Image_nqhfatnqhfatnqhf.jpeg",
+   "indice_zip": 149,
+   "ruta": "assets/img/banco/foto/dig-redes.jpg",
+   "miniatura": "assets/img/banco/foto/dig-redes-t.jpg",
+   "tipo": "fotografía/campaña",
+   "dimension_original": "1376x768",
+   "dimension_web": "1376x768",
+   "alt": "Publicaciones de Instagram «Viste con propósito»",
+   "estado": "integrado",
+   "paginas": [
+    "Imagen Pública"
+   ]
+  },
+  {
+   "origen": "Gemini_Generated_Image_cu6kgrcu6kgrcu6k.jpeg",
+   "indice_zip": 124,
+   "ruta": "assets/img/banco/foto/dig-facebook.jpg",
+   "miniatura": "assets/img/banco/foto/dig-facebook-t.jpg",
+   "tipo": "fotografía/campaña",
+   "dimension_original": "1376x768",
+   "dimension_web": "1376x768",
+   "alt": "Página de D’Salms en Facebook",
+   "estado": "integrado",
+   "paginas": [
+    "Imagen Pública"
+   ]
+  },
+  {
+   "origen": "Social_media_branding_layout_mockup_1f8856d9_2K.jpg",
+   "indice_zip": 250,
+   "ruta": "assets/img/banco/foto/dig-redes2.jpg",
+   "miniatura": "assets/img/banco/foto/dig-redes2-t.jpg",
+   "tipo": "fotografía/campaña",
+   "dimension_original": "2752x1536",
+   "dimension_web": "1500x837",
+   "alt": "Teléfonos con publicaciones, papelería y patrones de D’Salms",
+   "estado": "integrado",
+   "paginas": [
+    "Imagen Pública"
+   ]
+  },
+  {
+   "origen": "46.jpeg",
+   "indice_zip": 33,
+   "ruta": "assets/img/banco/foto/dig-perfil2.jpg",
+   "miniatura": "assets/img/banco/foto/dig-perfil2-t.jpg",
+   "tipo": "fotografía/campaña",
+   "dimension_original": "1024x1024",
+   "dimension_web": "1024x1024",
+   "alt": "Dos teléfonos con el perfil y la cuadrícula de D’Salms",
+   "estado": "integrado",
+   "paginas": [
+    "Imagen Pública"
+   ]
+  },
+  {
+   "origen": "Gemini_Generated_Image_lnkxtdlnkxtdlnkx.jpeg",
+   "indice_zip": 143,
+   "ruta": "assets/img/banco/foto/dig-compra.jpg",
+   "miniatura": "assets/img/banco/foto/dig-compra-t.jpg",
+   "tipo": "fotografía/campaña",
+   "dimension_original": "1376x768",
+   "dimension_web": "1376x768",
+   "alt": "Persona viendo prendas D’Salms en un teléfono",
+   "estado": "integrado",
+   "paginas": [
+    "Imagen Pública"
+   ]
+  },
+  {
+   "origen": "creatividad.jpeg",
+   "indice_zip": 267,
+   "ruta": "assets/img/banco/foto/proc-taller.jpg",
+   "miniatura": "assets/img/banco/foto/proc-taller-t.jpg",
+   "tipo": "fotografía/campaña",
+   "dimension_original": "1200x896",
+   "dimension_web": "1200x896",
+   "alt": "Diseñadora creando prendas D’Salms con bocetos y paleta",
+   "estado": "integrado",
+   "paginas": [
+    "Imagen Pública"
+   ]
+  },
+  {
+   "origen": "calidad.jpeg",
+   "indice_zip": 266,
+   "ruta": "assets/img/banco/foto/proc-corte.jpg",
+   "miniatura": "assets/img/banco/foto/proc-corte-t.jpg",
+   "tipo": "fotografía/campaña",
+   "dimension_original": "1200x896",
+   "dimension_web": "1200x896",
+   "alt": "Manos trabajando un polo con degradado turquesa y muestras",
+   "estado": "integrado",
+   "paginas": [
+    "Imagen Pública"
+   ]
+  },
+  {
+   "origen": "Gemini_Generated_Image_a2u1wwa2u1wwa2u1.jpeg",
+   "indice_zip": 115,
+   "ruta": "assets/img/banco/foto/proc-equipo.jpg",
+   "miniatura": "assets/img/banco/foto/proc-equipo-t.jpg",
+   "tipo": "fotografía/campaña",
+   "dimension_original": "1376x768",
+   "dimension_web": "1376x768",
+   "alt": "Equipo de trabajo en conceptualización con paneles de diseño",
+   "estado": "integrado",
+   "paginas": [
+    "Imagen Pública"
+   ]
+  },
+  {
+   "origen": "Gemini_Generated_Image_gqhqstgqhqstgqhq.jpeg",
+   "indice_zip": 134,
+   "ruta": "assets/img/banco/foto/proc-fotos.jpg",
+   "miniatura": "assets/img/banco/foto/proc-fotos-t.jpg",
+   "tipo": "fotografía/campaña",
+   "dimension_original": "1376x768",
+   "dimension_web": "1376x768",
+   "alt": "Sesión fotográfica de una prenda D’Salms en estudio",
+   "estado": "integrado",
+   "paginas": [
+    "Imagen Pública"
+   ]
+  },
+  {
+   "origen": "D'SALMS_boutique_storefront_at_n#U2026_9c153f85_2K.jpg",
+   "indice_zip": 59,
+   "ruta": "assets/img/banco/foto/id-fachada.jpg",
+   "miniatura": "assets/img/banco/foto/id-fachada-t.jpg",
+   "tipo": "fotografía/campaña",
+   "dimension_original": "2752x1536",
+   "dimension_web": "1500x837",
+   "alt": "Fachada de tienda D’Salms de noche",
+   "estado": "integrado"
+  },
+  {
+   "origen": "D'SALMS_concrete_and_marble_back#U2026_421c2646_2K.jpg",
+   "indice_zip": 62,
+   "ruta": "assets/img/banco/foto/id-pared.jpg",
+   "miniatura": "assets/img/banco/foto/id-pared-t.jpg",
+   "tipo": "fotografía/campaña",
+   "dimension_original": "2752x1536",
+   "dimension_web": "1500x837",
+   "alt": "Logotipo D’Salms en relieve sobre muro de concreto",
+   "estado": "integrado"
+  },
+  {
+   "origen": "D'SALMS_interior_space_photography_8859d257_2K.jpg",
+   "indice_zip": 66,
+   "ruta": "assets/img/banco/foto/id-tienda.jpg",
+   "miniatura": "assets/img/banco/foto/id-tienda-t.jpg",
+   "tipo": "fotografía/campaña",
+   "dimension_original": "2752x1536",
+   "dimension_web": "1500x837",
+   "alt": "Interior de boutique D’Salms",
+   "estado": "integrado"
+  },
+  {
+   "origen": "PORTADA Y PRINCIPAL.jpg",
+   "indice_zip": 245,
+   "ruta": "assets/img/banco/foto/id-ciudad.jpg",
+   "miniatura": "assets/img/banco/foto/id-ciudad-t.jpg",
+   "tipo": "fotografía/campaña",
+   "dimension_original": "2752x1536",
+   "dimension_web": "1500x837",
+   "alt": "Símbolo DS sobre una ciudad al amanecer",
+   "estado": "integrado"
+  },
+  {
+   "origen": "Corporate_stationery_mockup_0bbaafbc_2K.jpg",
+   "indice_zip": 52,
+   "ruta": "assets/img/banco/foto/id-papeleria.jpg",
+   "miniatura": "assets/img/banco/foto/id-papeleria-t.jpg",
+   "tipo": "fotografía/campaña",
+   "dimension_original": "2752x1536",
+   "dimension_web": "1500x837",
+   "alt": "Papelería morada y dorada de D’Salms",
+   "estado": "integrado"
+  },
+  {
+   "origen": "41.jpeg",
+   "indice_zip": 29,
+   "ruta": "assets/img/banco/foto/id-llaveros.jpg",
+   "miniatura": "assets/img/banco/foto/id-llaveros-t.jpg",
+   "tipo": "fotografía/campaña",
+   "dimension_original": "1456x720",
+   "dimension_web": "1456x720",
+   "alt": "Llaveros y piezas con el símbolo DS",
+   "estado": "integrado"
+  },
+  {
+   "origen": "LOGO COMPLETO PRINCIPAL.jpg",
+   "indice_zip": 182,
+   "ruta": "assets/img/logos/completo-turquesa.jpg",
+   "tipo": "logotipo completo oficial",
+   "alt": "Logotipo completo D’Salms (turquesa)",
+   "estado": "integrado"
+  },
+  {
+   "origen": "LOGO COMPLETO VARIANTE COLOR CREMA.jpg",
+   "indice_zip": 183,
+   "ruta": "assets/img/logos/completo-crema.jpg",
+   "tipo": "logotipo completo oficial",
+   "alt": "Logotipo completo D’Salms (crema)",
+   "estado": "integrado"
+  },
+  {
+   "origen": "LOGO COMPLETO VARIANTE COLOR MORADO.jpg",
+   "indice_zip": 184,
+   "ruta": "assets/img/logos/completo-morado.jpg",
+   "tipo": "logotipo completo oficial",
+   "alt": "Logotipo completo D’Salms (morado)",
+   "estado": "integrado"
+  },
+  {
+   "origen": "LOGO COMPLETO VARIANTE COLOR NEGRO .jpg",
+   "indice_zip": 185,
+   "ruta": "assets/img/logos/completo-negro.jpg",
+   "tipo": "logotipo completo oficial",
+   "alt": "Logotipo completo D’Salms (negro)",
+   "estado": "integrado"
+  },
+  {
+   "origen": "LOGO COMPLETO VARIANTE COLOR ROJO.jpg",
+   "indice_zip": 186,
+   "ruta": "assets/img/logos/completo-rojo.jpg",
+   "tipo": "logotipo completo oficial",
+   "alt": "Logotipo completo D’Salms (rojo)",
+   "estado": "integrado"
+  }
+ ]
+}

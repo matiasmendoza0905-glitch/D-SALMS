@@ -1,0 +1,30 @@
+.chart{margin:0;position:relative}
+.chart-stage{position:relative;background:#fff;border:2px solid var(--negro);border-radius:10px;padding:1rem}
+.chart-svg{width:100%;height:auto;display:block;max-height:430px;overflow:hidden}
+.chart-tip{position:absolute;transform:translate(-50%,-110%);background:var(--negro);color:var(--crema);padding:.5rem .8rem;border-radius:6px;font:500 .95rem/1.3 var(--f-text);pointer-events:none;white-space:nowrap;z-index:5}
+.chart-svg text{font-family:var(--f-text)}
+.grid{stroke:#d9d4c7;stroke-width:1}
+.axis-t{font-size:12px;fill:#444}
+.cat-t{font-size:14px;font-weight:500;fill:#000}.cat-s{font-size:12.5px}
+.val-t{font-size:14px;font-weight:700;fill:#000}
+.cum-t{font-size:12.5px;font-weight:700;fill:#B22222}
+.slice-t{font-size:15px;font-weight:700}
+.ctr-n{font:700 30px var(--f-display);fill:#000}.ctr-s{font-size:14px;fill:#444}
+.ref{stroke:#B22222;stroke-dasharray:5 5;stroke-width:1.5}.ref-t{font-size:12px;fill:#B22222;font-weight:700}
+.dp{cursor:pointer;outline:none;transition:opacity .25s,stroke-dasharray 1s var(--ease),transform .9s var(--ease),stroke-dashoffset 1s}
+.dp:focus-visible{stroke:#000;stroke-width:3}
+.arc{stroke-dasharray:0 var(--circ);transition:stroke-dasharray 1s var(--ease),opacity .25s}
+.in .arc{stroke-dasharray:var(--len) var(--circ)}
+.bar-v{transform-box:fill-box;transform-origin:bottom;transform:scaleY(0)}
+.bar-h{transform-box:fill-box;transform-origin:left;transform:scaleX(0)}
+.in .bar{transform:none}
+.pline{stroke-dasharray:1;stroke-dashoffset:1;transition:stroke-dashoffset 1.6s .5s var(--ease)}
+.in .pline{stroke-dashoffset:0}
+.pdot,.cum-t{opacity:0;transition:opacity .6s 1.2s}.in .pdot,.in .cum-t{opacity:1}
+.hl .dp{opacity:.35}.hl[data-hl="0"] .dp[data-i="0"],.hl[data-hl="1"] .dp[data-i="1"],.hl[data-hl="2"] .dp[data-i="2"],.hl[data-hl="3"] .dp[data-i="3"],.hl[data-hl="4"] .dp[data-i="4"]{opacity:1}
+.hl[data-hl] tr[data-row]{opacity:.45}
+.hl[data-hl="0"] tr[data-row="0"],.hl[data-hl="1"] tr[data-row="1"],.hl[data-hl="2"] tr[data-row="2"],.hl[data-hl="3"] tr[data-row="3"],.hl[data-hl="4"] tr[data-row="4"]{opacity:1;background:#fff3c8}
+.presentation .chart *{transition:none!important}
+.presentation .chart .bar,.presentation .chart .pline,.presentation .chart .pdot,.presentation .chart .cum-t{transform:none;stroke-dashoffset:0;opacity:1}
+.presentation .chart .arc{stroke-dasharray:var(--len) var(--circ)}
+.slice-t.sm{font-size:12px}

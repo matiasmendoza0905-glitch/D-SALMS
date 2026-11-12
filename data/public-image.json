@@ -1,0 +1,401 @@
+{
+ "meta": {
+  "titulo": "Estudio de imagen pública de D’Salms",
+  "registros": 15,
+  "preguntas": 10,
+  "respuestas": 150,
+  "naturaleza": "Ejercicio académico de tabulación y análisis de percepción visual. Los 15 registros son datos de práctica; no corresponden a un levantamiento de campo.",
+  "fuente": "DSalms_Encuesta_15_Respuestas_Graficos.xlsx · 03_IMAGEN_PUBLICA_ENCUESTA_Y_FODA.docx",
+  "limitacion": "Los resultados describen este conjunto de 15 registros y no son generalizables a los clientes de Pichanaqui."
+ },
+ "preguntas": [
+  {
+   "id": "P01",
+   "n": 1,
+   "texto": "¿Qué impresión general te transmite D’Salms?",
+   "opciones": [
+    "Muy buena",
+    "Buena",
+    "Regular",
+    "Mala",
+    "Muy mala"
+   ],
+   "grafico": "pie",
+   "tipo": "valoración",
+   "favorable": 13,
+   "lectura": "Predomina «Buena» (8 de 15; 53,3 %). Las dos opciones más favorables suman 86,7 % (13 de 15); 2 registros eligen «Regular» y ninguno marca las dos opciones desfavorables."
+  },
+  {
+   "id": "P02",
+   "n": 2,
+   "texto": "¿Cómo calificas el diseño del logotipo de D’Salms?",
+   "opciones": [
+    "Excelente",
+    "Bueno",
+    "Regular",
+    "Malo",
+    "Muy malo"
+   ],
+   "grafico": "barV",
+   "tipo": "valoración",
+   "favorable": 12,
+   "lectura": "Predomina «Bueno» (7 de 15; 46,7 %). Las dos opciones más favorables suman 80,0 % (12 de 15); 3 registros eligen «Regular» y ninguno marca las dos opciones desfavorables."
+  },
+  {
+   "id": "P03",
+   "n": 3,
+   "texto": "¿Qué te parecen los colores corporativos de D’Salms?",
+   "opciones": [
+    "Muy atractivos",
+    "Atractivos",
+    "Regulares",
+    "Poco atractivos",
+    "Nada atractivos"
+   ],
+   "grafico": "donut",
+   "tipo": "valoración",
+   "favorable": 14,
+   "lectura": "Predomina «Muy atractivos» (8 de 15; 53,3 %). Las dos opciones más favorables suman 93,3 % (14 de 15); 1 registro elige «Regulares» y ninguno marca las dos opciones desfavorables."
+  },
+  {
+   "id": "P04",
+   "n": 4,
+   "texto": "¿Qué tan adecuada te parece la tipografía de la marca?",
+   "opciones": [
+    "Muy adecuada",
+    "Adecuada",
+    "Regular",
+    "Poco adecuada",
+    "Nada adecuada"
+   ],
+   "grafico": "barH",
+   "tipo": "valoración",
+   "favorable": 11,
+   "lectura": "Predomina «Adecuada» (8 de 15; 53,3 %). Las dos opciones más favorables suman 73,3 % (11 de 15); 4 registros eligen «Regular» y ninguno marca las dos opciones desfavorables."
+  },
+  {
+   "id": "P05",
+   "n": 5,
+   "texto": "¿Qué tan atractivos te parecen los diseños de sus prendas?",
+   "opciones": [
+    "Muy atractivos",
+    "Atractivos",
+    "Regulares",
+    "Poco atractivos",
+    "Nada atractivos"
+   ],
+   "grafico": "pie",
+   "tipo": "valoración",
+   "favorable": 14,
+   "lectura": "Predomina «Atractivos» (8 de 15; 53,3 %). Las dos opciones más favorables suman 93,3 % (14 de 15); 1 registro elige «Regulares» y ninguno marca las dos opciones desfavorables."
+  },
+  {
+   "id": "P06",
+   "n": 6,
+   "texto": "¿Cómo percibes la integración de mensajes de fe en las prendas?",
+   "opciones": [
+    "Muy bien integrada",
+    "Bien integrada",
+    "Regular",
+    "Poco integrada",
+    "Nada integrada"
+   ],
+   "grafico": "donut",
+   "tipo": "valoración",
+   "favorable": 13,
+   "lectura": "Predomina «Muy bien integrada» (7 de 15; 46,7 %). Las dos opciones más favorables suman 86,7 % (13 de 15); 2 registros eligen «Regular» y ninguno marca las dos opciones desfavorables."
+  },
+  {
+   "id": "P07",
+   "n": 7,
+   "texto": "¿Qué tan coherentes son el logotipo, colores, prendas y publicaciones?",
+   "opciones": [
+    "Muy coherentes",
+    "Coherentes",
+    "Regulares",
+    "Poco coherentes",
+    "Nada coherentes"
+   ],
+   "grafico": "col",
+   "tipo": "valoración",
+   "favorable": 11,
+   "lectura": "Predomina «Coherentes» (7 de 15; 46,7 %). Las dos opciones más favorables suman 73,3 % (11 de 15); 4 registros eligen «Regulares» y ninguno marca las dos opciones desfavorables."
+  },
+  {
+   "id": "P08",
+   "n": 8,
+   "texto": "¿Qué aspecto valorarías más al elegir una prenda D’Salms?",
+   "opciones": [
+    "Diseño y originalidad",
+    "Calidad y comodidad",
+    "Mensajes de fe",
+    "Colores y combinaciones",
+    "Precio"
+   ],
+   "grafico": "pie",
+   "tipo": "preferencia",
+   "lectura": "«Diseño y originalidad» lidera con 6 de 15 (40,0 %). «Calidad y comodidad» y «Mensajes de fe» obtienen 3 cada una (20,0 %), «Precio» 2 (13,3 %) y «Colores y combinaciones» 1 (6,7 %)."
+  },
+  {
+   "id": "P09",
+   "n": 9,
+   "texto": "¿Por qué canal preferirías conocer las novedades de D’Salms?",
+   "opciones": [
+    "Instagram",
+    "Facebook",
+    "TikTok",
+    "WhatsApp",
+    "Página web"
+   ],
+   "grafico": "barH",
+   "tipo": "preferencia",
+   "lectura": "«Instagram» lidera con 6 de 15 (40,0 %). «Facebook», «TikTok» y «WhatsApp» obtienen 3 cada una (20,0 %); «Página web» no recibe respuestas."
+  },
+  {
+   "id": "P10",
+   "n": 10,
+   "texto": "¿Qué aspecto debería mejorar principalmente D’Salms?",
+   "opciones": [
+    "Publicaciones y redes",
+    "Variedad de prendas",
+    "Fotografías de producto",
+    "Información de prendas",
+    "Navegación de la web"
+   ],
+   "grafico": "pareto",
+   "tipo": "preferencia",
+   "lectura": "«Publicaciones y redes» y «Variedad de prendas» empatan con 4 de 15 (26,7 %) cada una; después aparecen «Fotografías de producto» (3), «Información de prendas» (2) y «Navegación de la web» (2). Las tres primeras reúnen 73,3 % y con la cuarta se llega a 86,7 %."
+  }
+ ],
+ "participantes": [
+  "A01",
+  "A02",
+  "A03",
+  "A04",
+  "A05",
+  "A06",
+  "A07",
+  "A08",
+  "A09",
+  "A10",
+  "A11",
+  "A12",
+  "A13",
+  "A14",
+  "A15"
+ ],
+ "respuestas": [
+  [
+   "Muy buena",
+   "Bueno",
+   "Muy atractivos",
+   "Adecuada",
+   "Muy atractivos",
+   "Muy bien integrada",
+   "Coherentes",
+   "Diseño y originalidad",
+   "Instagram",
+   "Publicaciones y redes"
+  ],
+  [
+   "Buena",
+   "Excelente",
+   "Atractivos",
+   "Adecuada",
+   "Atractivos",
+   "Bien integrada",
+   "Coherentes",
+   "Calidad y comodidad",
+   "TikTok",
+   "Variedad de prendas"
+  ],
+  [
+   "Muy buena",
+   "Excelente",
+   "Muy atractivos",
+   "Muy adecuada",
+   "Muy atractivos",
+   "Muy bien integrada",
+   "Muy coherentes",
+   "Diseño y originalidad",
+   "Instagram",
+   "Fotografías de producto"
+  ],
+  [
+   "Buena",
+   "Bueno",
+   "Atractivos",
+   "Regular",
+   "Atractivos",
+   "Bien integrada",
+   "Regulares",
+   "Mensajes de fe",
+   "Facebook",
+   "Publicaciones y redes"
+  ],
+  [
+   "Buena",
+   "Bueno",
+   "Muy atractivos",
+   "Adecuada",
+   "Atractivos",
+   "Muy bien integrada",
+   "Coherentes",
+   "Diseño y originalidad",
+   "Instagram",
+   "Información de prendas"
+  ],
+  [
+   "Regular",
+   "Regular",
+   "Atractivos",
+   "Regular",
+   "Regulares",
+   "Regular",
+   "Regulares",
+   "Precio",
+   "WhatsApp",
+   "Variedad de prendas"
+  ],
+  [
+   "Buena",
+   "Bueno",
+   "Muy atractivos",
+   "Adecuada",
+   "Muy atractivos",
+   "Bien integrada",
+   "Coherentes",
+   "Calidad y comodidad",
+   "TikTok",
+   "Publicaciones y redes"
+  ],
+  [
+   "Muy buena",
+   "Excelente",
+   "Muy atractivos",
+   "Muy adecuada",
+   "Muy atractivos",
+   "Muy bien integrada",
+   "Muy coherentes",
+   "Mensajes de fe",
+   "Instagram",
+   "Fotografías de producto"
+  ],
+  [
+   "Buena",
+   "Bueno",
+   "Atractivos",
+   "Adecuada",
+   "Atractivos",
+   "Bien integrada",
+   "Coherentes",
+   "Diseño y originalidad",
+   "Facebook",
+   "Navegación de la web"
+  ],
+  [
+   "Regular",
+   "Regular",
+   "Regulares",
+   "Regular",
+   "Atractivos",
+   "Regular",
+   "Regulares",
+   "Precio",
+   "WhatsApp",
+   "Información de prendas"
+  ],
+  [
+   "Buena",
+   "Bueno",
+   "Muy atractivos",
+   "Adecuada",
+   "Atractivos",
+   "Muy bien integrada",
+   "Coherentes",
+   "Calidad y comodidad",
+   "Instagram",
+   "Variedad de prendas"
+  ],
+  [
+   "Muy buena",
+   "Excelente",
+   "Muy atractivos",
+   "Muy adecuada",
+   "Muy atractivos",
+   "Muy bien integrada",
+   "Muy coherentes",
+   "Diseño y originalidad",
+   "TikTok",
+   "Fotografías de producto"
+  ],
+  [
+   "Buena",
+   "Bueno",
+   "Atractivos",
+   "Regular",
+   "Atractivos",
+   "Bien integrada",
+   "Regulares",
+   "Mensajes de fe",
+   "Facebook",
+   "Publicaciones y redes"
+  ],
+  [
+   "Buena",
+   "Regular",
+   "Atractivos",
+   "Adecuada",
+   "Atractivos",
+   "Bien integrada",
+   "Coherentes",
+   "Colores y combinaciones",
+   "WhatsApp",
+   "Navegación de la web"
+  ],
+  [
+   "Muy buena",
+   "Excelente",
+   "Muy atractivos",
+   "Adecuada",
+   "Muy atractivos",
+   "Muy bien integrada",
+   "Muy coherentes",
+   "Diseño y originalidad",
+   "Instagram",
+   "Variedad de prendas"
+  ]
+ ],
+ "acciones": [
+  {
+   "prioridad": "Alta",
+   "accion": "Estandarizar fichas y fotografía de prendas",
+   "kpi": "% de productos con ficha completa",
+   "evidencia": "Auditoría del catálogo"
+  },
+  {
+   "prioridad": "Alta",
+   "accion": "Programar contenido de colecciones en redes",
+   "kpi": "Frecuencia de publicaciones",
+   "evidencia": "Calendario + métricas de plataforma"
+  },
+  {
+   "prioridad": "Alta",
+   "accion": "Aplicar una encuesta real posteriormente",
+   "kpi": "N.º de respuestas válidas verificadas",
+   "evidencia": "Formulario y consentimiento"
+  },
+  {
+   "prioridad": "Media",
+   "accion": "Mejorar claridad de contacto",
+   "kpi": "% de enlaces operativos",
+   "evidencia": "Revisión funcional web"
+  },
+  {
+   "prioridad": "Media",
+   "accion": "Monitorear consultas reales",
+   "kpi": "Tiempo medio de respuesta",
+   "evidencia": "Registro consentido y fechado"
+  }
+ ]
+}

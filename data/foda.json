@@ -1,0 +1,54 @@
+{
+ "version": "1.0",
+ "nota": "Fuente única de la matriz FODA. La usan Imagen Pública y Plan de Comunicación.",
+ "cuadrantes": [
+  {
+   "id": "F",
+   "nombre": "Fortalezas",
+   "origen": "Interno",
+   "signo": "Favorable",
+   "items": [
+    "Identidad visual diferenciada con cinco colores oficiales.",
+    "Concepto de moda contemporánea de inspiración cristiana.",
+    "Portafolio visual masculino y femenino.",
+    "Relación coherente entre fe, moda y creatividad."
+   ]
+  },
+  {
+   "id": "O",
+   "nombre": "Oportunidades",
+   "origen": "Externo",
+   "signo": "Favorable",
+   "items": [
+    "Desarrollar contenido editorial para redes sociales.",
+    "Fortalecer la presentación digital del catálogo.",
+    "Conectar las colecciones con mensajes de fe.",
+    "Ampliar el alcance mediante canales digitales."
+   ]
+  },
+  {
+   "id": "D",
+   "nombre": "Debilidades",
+   "origen": "Interno",
+   "signo": "Desfavorable",
+   "items": [
+    "Necesidad de evaluar la reputación digital con datos reales.",
+    "Estandarizar fotografías y fichas de productos.",
+    "Fortalecer la información de contacto y atención.",
+    "Implementar seguimiento continuo de indicadores."
+   ]
+  },
+  {
+   "id": "A",
+   "nombre": "Amenazas",
+   "origen": "Externo",
+   "signo": "Desfavorable",
+   "items": [
+    "Competencia en el sector de moda contemporánea.",
+    "Cambios constantes en tendencias de consumo.",
+    "Saturación de contenido en redes sociales.",
+    "Riesgo de perder consistencia al ampliar aplicaciones."
+   ]
+  }
+ ]
+}

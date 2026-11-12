@@ -1,0 +1,85 @@
+/* HERO */
+.hero{position:relative;height:calc(100svh - var(--header-h));min-height:560px;overflow:hidden;background:#15101b;color:var(--crema)}
+.hero picture,.hero img{position:absolute;inset:0;width:100%;height:100%}
+.hero img{object-fit:cover;object-position:50% 22%;animation:maskIn 1.5s var(--ease) both}
+@keyframes maskIn{from{clip-path:inset(0 0 100% 0);transform:scale(1.08)}to{clip-path:inset(0);transform:none}}
+.hero::after{content:"";position:absolute;inset:0;background:linear-gradient(to top,rgba(0,0,0,.88) 0%,rgba(0,0,0,.55) 32%,rgba(0,0,0,0) 62%),linear-gradient(100deg,rgba(75,27,107,.45),transparent 45%);pointer-events:none}
+.hero-copy{position:absolute;z-index:2;left:0;right:0;bottom:0;padding-bottom:clamp(2rem,5vw,4rem)}
+.hero h1{font-size:var(--t-hero);margin:0 0 .25em;letter-spacing:-.02em}
+.hero h1 span{display:block;overflow:hidden}
+.hero h1 span i{display:block;font-style:normal;animation:lineUp 1s var(--ease) both}
+.hero h1 span:nth-child(2) i{animation-delay:.18s}
+@keyframes lineUp{from{transform:translateY(105%)}to{transform:none}}
+.hero .lead{font-size:clamp(1.05rem,2vw,1.4rem);max-width:34ch;margin-bottom:1.6rem;animation:pageIn 1s .7s both}
+.hero .actions{display:flex;gap:.8rem;flex-wrap:wrap;animation:pageIn 1s .9s both}
+.scroll-ind{position:absolute;z-index:2;right:var(--pad);bottom:clamp(2rem,5vw,4rem);font:500 .8rem var(--f-text);writing-mode:vertical-rl;letter-spacing:.15em;display:flex;align-items:center;gap:.7rem}
+.scroll-ind::after{content:"";width:2px;height:56px;background:var(--crema);animation:drip 1.8s infinite var(--ease);transform-origin:top}
+@keyframes drip{0%{transform:scaleY(0)}60%{transform:scaleY(1)}100%{transform:scaleY(1);opacity:0}}
+@media (max-width:700px){.scroll-ind{display:none}.hero img{object-position:48% 20%}}
+/* MANIFIESTO */
+.manifesto{display:grid;grid-template-columns:7fr 5fr;min-height:70svh}
+.manifesto .m-block{background:var(--g-morado-rojo);color:var(--crema);padding:clamp(2rem,6vw,5rem) var(--pad);display:flex;align-items:center}
+.manifesto .m-block p{font:700 var(--t-xl)/1.08 var(--f-display);max-width:16ch;margin:0}
+.manifesto .m-text{padding:clamp(2rem,6vw,5rem) var(--pad);display:flex;flex-direction:column;justify-content:center;gap:1rem}
+.manifesto .m-text img{width:92px;border-radius:6px}
+@media (max-width:860px){.manifesto{grid-template-columns:1fr}}
+/* SCROLL TYPOGRAPHY */
+.st{position:relative;height:260vh;background:var(--negro)}
+.st-sticky{position:sticky;top:var(--header-h);height:calc(100svh - var(--header-h));overflow:hidden;display:flex;align-items:center;background:url(../assets/img/hero/portada-y-principal-1600.jpg) 50% 85%/cover}
+.st-sticky::before{content:"";position:absolute;inset:0;background:linear-gradient(115deg,rgba(75,27,107,.88),rgba(178,34,34,.72))}
+.st-track{position:relative;white-space:nowrap;font:700 clamp(7rem,30vw,26rem)/1 var(--f-display);color:var(--crema);padding-left:6vw;will-change:transform}
+.st.static{height:auto}.st.static .st-sticky{position:relative;height:auto;padding:5rem 0}
+.st.static .st-track{white-space:normal;font-size:clamp(3.5rem,14vw,9rem);transform:none!important}
+/* COLECCIONES */
+.col-head{display:flex;justify-content:space-between;align-items:end;gap:1rem;flex-wrap:wrap;margin-bottom:2rem}
+.col-head h2{font-size:var(--t-xl);margin:0}
+.col-list{list-style:none;margin:0;padding:0}
+.col-list a{display:grid;grid-template-columns:3.5rem 1fr auto;align-items:center;gap:1rem;padding:clamp(1.1rem,2.6vw,2rem) var(--pad);text-decoration:none;transition:padding-left .35s var(--ease)}
+.col-list a:hover,.col-list a:focus-visible{padding-left:calc(var(--pad) + 1.5rem)}
+.col-list .n{font:700 .9rem var(--f-text)}
+.col-list .t{font:700 var(--t-xl)/1 var(--f-display)}
+.col-list .go{font:700 .8rem var(--f-text);letter-spacing:.1em;text-transform:uppercase}
+.c1{background:var(--turquesa);color:var(--negro)}.c2{background:var(--morado);color:var(--crema)}.c3{background:var(--rojo);color:var(--crema)}.c4{background:var(--negro);color:var(--crema)}.c5{background:var(--crema);color:var(--negro);border-top:2px solid var(--negro)}
+@media (max-width:600px){.col-list a{grid-template-columns:2rem 1fr}.col-list .go{display:none}}
+/* FILOSOFÍA / VALORES */
+.fil{background:var(--crema)}
+.fil-grid{display:grid;grid-template-columns:5fr 7fr;gap:calc(var(--gap)*2);align-items:start}
+.fil h2{font-size:var(--t-xl)}
+.vals{display:grid;grid-template-columns:repeat(2,1fr);gap:var(--gap)}
+.val{padding:1.4rem 0 0;border-top:6px solid var(--morado)}
+.val:nth-child(2){border-color:var(--rojo)}.val:nth-child(3){border-color:var(--turquesa)}.val:nth-child(4){border-color:var(--negro)}
+.val h3{font-size:var(--t-l);margin-bottom:.3em}
+@media (max-width:860px){.fil-grid{grid-template-columns:1fr}}
+/* PROCESO */
+.proc{background:var(--negro);color:var(--crema)}
+.proc h2{font-size:var(--t-xl);max-width:14ch}
+.steps{list-style:none;counter-reset:s;margin:2.5rem 0 0;padding:0;display:grid;grid-template-columns:repeat(4,1fr);gap:var(--gap);position:relative}
+.steps::before{content:"";position:absolute;left:0;right:0;top:1.35rem;height:2px;background:var(--g-tri)}
+.steps li{counter-increment:s;position:relative;padding-top:4rem}
+.steps li::before{content:counter(s);position:absolute;top:0;left:0;width:2.7rem;height:2.7rem;border-radius:50%;background:var(--crema);color:var(--negro);display:grid;place-items:center;font:700 1rem var(--f-display)}
+.steps h3{font-size:var(--t-m);margin-bottom:.3em}
+@media (max-width:860px){.steps{grid-template-columns:1fr}.steps::before{left:1.35rem;right:auto;top:0;bottom:0;width:2px;height:auto}.steps li{padding:0 0 1.5rem 4rem}}
+/* IDENTIDAD */
+.ident{background:var(--g-negro-morado);color:var(--crema)}
+.ident-grid{display:grid;grid-template-columns:5fr 7fr;gap:calc(var(--gap)*2);align-items:center}
+.ident-logo img{width:100%;max-width:460px;border-radius:8px;box-shadow:0 30px 80px rgba(0,0,0,.5)}
+.ident h2{font-size:var(--t-xl);min-height:2.2em}
+.var-btns{display:flex;gap:.5rem;flex-wrap:wrap;margin:1.2rem 0}
+.var-btns button{background:none;border:2px solid var(--crema);color:var(--crema);border-radius:999px;padding:.5rem 1rem;font:500 .9rem var(--f-text);cursor:pointer}
+.var-btns button[aria-pressed="true"]{background:var(--crema);color:var(--negro)}
+.swatches{display:grid;grid-template-columns:repeat(5,1fr);gap:.5rem;margin-top:1.5rem}
+.sw{padding:2.2rem .6rem .6rem;font:700 .78rem var(--f-text);border-radius:4px}
+.sw small{display:block;font-weight:500}
+@media (max-width:860px){.ident-grid{grid-template-columns:1fr}.swatches{grid-template-columns:repeat(2,1fr)}}
+/* FICHA */
+.ficha{display:grid;grid-template-columns:6fr 6fr;align-items:stretch}
+.ficha .f-img{min-height:420px;background:url(../assets/img/hero/portada-y-principal-1600.jpg) 55% 30%/cover}
+.ficha .f-txt{background:var(--rojo);color:var(--crema);padding:clamp(2rem,6vw,5rem) var(--pad);display:flex;flex-direction:column;justify-content:center;gap:.5rem}
+.ficha h2{font-size:var(--t-xl)}
+.ficha .sub-t{font:700 .95rem var(--f-text);letter-spacing:.12em;margin-bottom:1rem}
+@media (max-width:860px){.ficha{grid-template-columns:1fr}}
+/* CIERRE */
+.cierre{background:var(--g-tri);color:var(--crema);text-align:center;padding:clamp(4rem,9vw,8rem) var(--pad)}
+.cierre h2{font-size:clamp(2.6rem,9vw,7.5rem);margin-bottom:.4em}
+.cierre .actions{display:flex;gap:.8rem;justify-content:center;flex-wrap:wrap}
+.cierre p{margin-inline:auto}

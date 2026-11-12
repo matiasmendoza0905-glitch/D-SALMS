@@ -1,0 +1,18 @@
+@font-face{font-family:Kalnia;font-weight:400;font-display:swap;src:url(../fonts/kalnia-latin-400-normal.woff2) format("woff2")}
+@font-face{font-family:Kalnia;font-weight:700;font-display:swap;src:url(../fonts/kalnia-latin-700-normal.woff2) format("woff2")}
+@font-face{font-family:"DM Sans";font-weight:400;font-display:swap;src:url(../fonts/dm-sans-latin-400-normal.woff2) format("woff2")}
+@font-face{font-family:"DM Sans";font-weight:500;font-display:swap;src:url(../fonts/dm-sans-latin-500-normal.woff2) format("woff2")}
+@font-face{font-family:"DM Sans";font-weight:700;font-display:swap;src:url(../fonts/dm-sans-latin-700-normal.woff2) format("woff2")}
+:root{
+  --turquesa:#2DB7C7;--crema:#F8F6EF;--negro:#000;--rojo:#B22222;--morado:#4B1B6B;
+  --g-morado-rojo:linear-gradient(120deg,var(--morado),var(--rojo));
+  --g-turquesa-morado:linear-gradient(120deg,var(--turquesa),var(--morado));
+  --g-rojo-crema:linear-gradient(120deg,var(--rojo),var(--crema));
+  --g-negro-morado:linear-gradient(160deg,var(--negro),var(--morado));
+  --g-tri:linear-gradient(110deg,var(--morado),var(--rojo) 55%,var(--turquesa));
+  --f-display:Kalnia,"Times New Roman",Georgia,serif;
+  --f-text:"DM Sans",system-ui,-apple-system,"Segoe UI",Arial,sans-serif;
+  --t-hero:clamp(2.9rem,9.5vw,9rem);--t-xl:clamp(2.2rem,5.5vw,4.6rem);--t-l:clamp(1.6rem,3vw,2.4rem);--t-m:1.15rem;--t-s:.9rem;
+  --gap:clamp(1rem,2.5vw,2rem);--pad:clamp(1.1rem,4vw,3.5rem);--max:1320px;--header-h:64px;
+  --ease:cubic-bezier(.2,.7,.2,1);
+}
